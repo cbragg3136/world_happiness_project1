@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-﻿Series Name,Series Code,Country Name,Country Code,2015[YR2015],2016[YR2016],2017[YR2017],2018[YR2018],2019[YR2019]
-=======
-﻿Series Name,Series Code,Country Name,Country Code,2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019]
->>>>>>> main
+Series Name,Series Code,Country Name,Country Code,2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019]
+,,,,,,,,
 Gini index (World Bank estimate),SI.POV.GINI,Afghanistan,AFG,..,..,..,..,..
 Gini index (World Bank estimate),SI.POV.GINI,Albania,ALB,32.9,33.7,33.2,..,..
 Gini index (World Bank estimate),SI.POV.GINI,Algeria,DZA,..,..,..,..,..
